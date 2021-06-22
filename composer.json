@@ -1,8 +1,8 @@
 {
-	"name": "automattic/table-of-contents",
+	"name": "automattic/cheezcap",
 	"type": "wordpress-plugin",
-	"description": "Adds a table of contents to your page",
-	"homepage": "https://github.com/Automattic/table-of-contents/",
+	"description": "Cheezburger Custom Administration Panel",
+	"homepage": "https://github.com/Automattic/cheezcap/",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
@@ -55,7 +55,7 @@
 		]
 	},
 	"support": {
-		"issues": "https://github.com/Automattic/table-of-contents/issues",
-		"source": "https://github.com/Automattic/table-of-contents"
+		"issues": "https://github.com/Automattic/cheezcap/issues",
+		"source": "https://github.com/Automattic/cheezcap"
 	}
 }
