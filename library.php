@@ -154,6 +154,7 @@ class CheezCapTextOption extends CheezCapOption {
 
 class CheezCapDropdownOption extends CheezCapOption {
 	var $options;
+	var $options_labels;
 
 	function __construct( $_name, $_desc, $_id, $_options, $_stdIndex = 0, $_options_labels = array(), $_validation_cb = false ) {
 		$_std = ! isset( $_options[$_stdIndex] ) ? $_options[0] : $_options[$_stdIndex];
